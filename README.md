@@ -5,7 +5,7 @@ A simple web project built using HTML, CSS, and JavaScript.
 
 
 
-![img alt](Screenshot 2025-03-20 111743.png)
+![img alt](https://github.com/Uday0x/QuoteGenerator/blob/97155198eb096020a6ee59e65e112f5ab4ff3cd9/Screenshot%202025-03-20%20111743.png)
 
 ## Features 
 - Displays a random quote on the page
