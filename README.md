@@ -20,7 +20,7 @@ A simple web project built using HTML, CSS, and JavaScript.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Uday0x/masterJi.git
+   git clone git@github.com:Uday0x/QuoteGenerator.git
 2. **Navigate the project folder**
    ```bash
     cd QuoteGenerator
