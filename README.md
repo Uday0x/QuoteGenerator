@@ -5,7 +5,7 @@ A simple web project built using HTML, CSS, and JavaScript.
 
 
 
-
+![img alt](Screenshot 2025-03-20 111743.png)
 
 ## Features 
 - Displays a random quote on the page
